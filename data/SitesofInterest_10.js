@@ -1,0 +1,1 @@
+var json_SitesofInterest_10 = {"type":"FeatureCollection","name":"SitesofInterest_10","features":[{"type":"Feature","properties":{"Name":"Erionn's First Battle","Descriptio":"The site of Erionn's first real battle, when the Defiant is attacked by imperial dragons for the first time.","Book":null},"geometry":{"type":"Point","coordinates":[15.407052937723593,4.107713921834405]}}]}
